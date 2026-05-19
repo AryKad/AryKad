@@ -11,7 +11,7 @@ Targeting MS in Microelectronics & Chip Design at TU Munich
 ### RFSoC High Speed Loopback System — IIT Dharwad
 Architected an end-to-end loopback system on Xilinx Zynq UltraScale+ RFSoC, scaling throughput from 40bps to 1Gbps using PYNQ DMA and Vitis HLS acceleration.
 
-### Autonomous Indoor Navigation — IIT Dharwad (Ongoing)
+### Autonomous Indoor Navigation — IIT Dharwad 
 Synthesizing a Dynamic Window Approach module on FPGA for real-time parallel path planning. Benchmarking SLAM trajectory mapping using ORBSLAM3 and RTAB-MAP.
 
 ### Systolic Array Matrix Multiplier — FPGA (Ongoing)
